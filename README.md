@@ -62,7 +62,7 @@ Features
 Opcodes
 monty executes the following opcodes:
 
-Opcode	         Description
+Opcode	           Description
 
 push	           Pushes an element to the stack
 
