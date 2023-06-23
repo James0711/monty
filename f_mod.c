@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * f_mod - A function that computes the 
+ * f_mod - A function that computes the
  * rest of the division of the stack
  * @head: stack head
  * @counter: line_number
